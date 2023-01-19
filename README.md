@@ -7,7 +7,7 @@
 
 Interactive light ring fragment shader written using threejs
 
-[![Demo](https://img.shields.io/badge/live-demo-green?style=flat-square)](https://timmoth.com/showcase/j7461vt3eU-Cu0QIUcXD3w)
+[![Demo](https://img.shields.io/badge/live-demo-green?style=flat-square)](https://timmoth.com/showcase/BtpaihNxQkiy7aTDjiAtbg)
 
 Clone
 ```
