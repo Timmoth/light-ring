@@ -27,7 +27,7 @@ module.exports = {
     outputModule: true,
   },
   output: {
-    filename: "line-ring.js",
+    filename: "light-ring.js",
     path: path.resolve(__dirname, "dist"),
 
     library: {
